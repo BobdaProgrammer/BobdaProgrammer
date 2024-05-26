@@ -5,15 +5,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobdaprogrammer&theme=onedark" alt="bobdaprogrammer"/></a> </p>
 </div>
 
-- 🔭 I’m currently working on [a terminal based IDE in go](https://github.com/BobdaProgrammer/slik)
+- 🔭 I’m currently working on a [Github Profile README Generator](https://github.com/BobdaProgrammer/Github-Readme-Generator)
 
-- 🌱 I’m currently learning **how to make a programming language**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BobdaProgrammer](https://github.com/BobdaProgrammer)
 
 - ⚡ Fun fact **I started programming from commands in minecraft**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bobdaprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bobdaprogrammer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bobdaprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobdaprogrammer" height="30" width="40" /></a>
