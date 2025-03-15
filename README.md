@@ -19,9 +19,10 @@
   
 <h1 align="center">Hi 👋, I'm BobdaProgrammer</h1>
 <h3 align="center">I like making cool projects</h3>
-
 <div style="width:100%; text-align: center;">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobdaprogrammer&theme=onedark" alt="bobdaprogrammer"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobdaprogrammer&theme=onedark" alt="bobdaprogrammer"/></a> <a href="https://ko-fi.com/Z8Z3WOCI2">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+</a></p>
 </div>
 
 - 🔭 I’m currently working on a [Github Profile README Generator](https://github.com/BobdaProgrammer/Github-Readme-Generator)
